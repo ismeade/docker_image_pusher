@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 atmoz/sftp:latest
+registry:2
