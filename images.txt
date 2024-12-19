@@ -8,3 +8,4 @@
 atmoz/sftp:latest
 registry:2
 sonatype/nexus3
+busybox:latest
