@@ -11,3 +11,4 @@ sonatype/nexus3
 busybox:latest
 onlyoffice/documentserver:8.2.0
 confluentinc/cp-kafka:latest
+apache/iotdb:1.1.0-standalone
