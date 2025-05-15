@@ -12,3 +12,5 @@ busybox:latest
 onlyoffice/documentserver:8.2.0
 confluentinc/cp-kafka:latest
 apache/iotdb:1.1.0-standalone
+node:14.21.3
+maven:3.6.3-openjdk-11
