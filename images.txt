@@ -16,3 +16,7 @@ node:14.21.3
 maven:3.6.3-openjdk-11
 apache/doris:be-2.1.8
 apache/doris:fe-2.1.8
+redis:5
+mysql:5.7
+hanchuanchuan/goinception
+hhyo/archery:v1.12.0
