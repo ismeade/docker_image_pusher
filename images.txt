@@ -21,4 +21,4 @@ mysql:5.7
 hanchuanchuan/goinception
 hhyo/archery:v1.12.0
 browserless/chrome:1.60.2-puppeteer-14.4.1
-
+mariadb:10.11.1
